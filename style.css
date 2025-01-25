@@ -28,7 +28,9 @@ svg {
   left: 0;
   top: 5%;
 }
-
+.hidden-data{
+	display: none;
+}
 
 .st0{display:none;}
 	.st1{fill:#D16B59;}
